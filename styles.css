@@ -1,0 +1,9 @@
+body {
+    padding: 5px;
+    background-color: darkgray;
+}
+
+.container {
+    background-color: aliceblue;
+    min-height: 500px;
+}
